@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+#~/.local/share/applications/perforce.desktop
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/ondrej/bin/p4v-default/lib/P4VResources/icons/p4v.svg
+Exec=/home/ondrej/bin/p4v-default/bin/p4v
+Name=Perforce
